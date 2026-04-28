@@ -13,10 +13,29 @@ This project provides a comprehensive analysis of sales trends, customer behavio
 2. **Geographic Performance:** Germany represents a critical market, but showed a 2.3% decline, requiring a strategic pivot in 2024.
 3. **Demographics:** The 25-34 age group is the primary driver of revenue in key cities like London.
 
-## 🛠️ Tools Used
-* **Power BI:** DAX for complex measures, Power Query for ETL, and advanced visualization.
-* **Analysis Techniques:** Cohort Analysis, Correlation (Volume vs. Spend), and Trend Forecasting.
+# 📊 Sales & Business Intelligence Portfolio
 
-## 📸 Preview
-![Dashboard Overview](./images/captura_principal.jpg)
-*(Añade aquí más capturas de tus dashboards)*
+> End-to-end data analysis project using Power BI to identify revenue trends and optimize business decision-making (2015-2024).
+
+---
+
+## 📸 Dashboard Previews
+
+### 1️⃣ Ventas en Perspectiva (Análisis 2020-2024)
+*Análisis detallado de la evolución de ingresos y comportamiento de usuarios.*
+![Ventas en Perspectiva](images/sprint_7_1.jpg)
+
+### 2️⃣ Investigación de Reducción de Ingresos
+*Identificación de cuellos de botella y caída de ventas en mercados clave.*
+![Reducción de Ingresos](images/sprint_8_1.jpg)
+
+### 3️⃣ Radiografía de Transacciones
+*Análisis de correlación entre volumen de compra e inversión por cliente.*
+![Análisis de Transacciones](images/sprint_11_3.jpg)
+
+---
+
+## 🛠️ Key Skills Applied
+* **Power BI & DAX:** Creation of complex measures and interactive visualizations.
+* **Business Strategy:** Revenue leakage identification and market trend analysis.
+* **Data Storytelling:** Turning raw transactional data into strategic insights.
