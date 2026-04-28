@@ -31,6 +31,12 @@ This project provides a comprehensive analysis of sales trends, customer behavio
 
 ### 3️⃣ Radiografía de Transacciones
 *Análisis de correlación entre volumen de compra e inversión por cliente.*
+### 🔬 Advanced Analytics: Python Integration
+Para este proyecto, no solo utilicé visualización estándar, sino que integré scripts de **Python** para profundizar en los datos:
+
+* **Correlation Analysis (Volume vs. Investment):** Utilicé bibliotecas de Python (Pandas/Seaborn) para calcular la correlación técnica entre la cantidad de productos y el gasto total.
+* **Insight de Negocio:** Identifiqué que, aunque existe una correlación positiva, hay un segmento de "clientes premium" (outliers) que generan el 30% del margen con solo el 5% de las transacciones.
+* **Visualización:** El resultado se integró en Power BI para permitir una exploración interactiva mediante filtros de país y año.
 ![Análisis de Transacciones](images/sprint_11_3.jpg)
 
 ---
